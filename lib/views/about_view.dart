@@ -22,13 +22,13 @@ class AboutView extends StatelessWidget {
 
               // Textos simples con const para optimizar
               Text(
-                'Javi The Lovely',
+                'Luis Javier Espinal Duran',
                 style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
               ),
               SizedBox(height: 10),
 
               Text(
-                'Estudiante de tecnología | Desarrollador Flutter',
+                'Estudiante de tecnología | Desarrollador',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 16),
               ),
@@ -36,7 +36,7 @@ class AboutView extends StatelessWidget {
 
               // Textos con emojis y saltos de línea NO pueden ser const
               Text(
-                '📧 Email: javi@example.com\n📱 Tel: +1 809-123-4567\n🌐 GitHub: github.com/javi',
+                '📧 Email: luisespinaljobs@gmail.com\n📱 Tel: +1 829-921-2157\n🌐 GitHub: github.com/javithelovely',
                 textAlign: TextAlign.center,
               ),
               SizedBox(height: 30),
